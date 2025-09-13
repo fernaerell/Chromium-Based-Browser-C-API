@@ -1,0 +1,8 @@
+# build
+build
+
+# clangd
+.cache
+
+# other
+data
